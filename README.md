@@ -1,0 +1,1 @@
+This Github repository contains the jupyternotebook file named "pymaceuticals_starter" and the supporting data in the "data" folder.  This work was completed with the assistance of the Walkthrough video from Dr. A, but was otherwise my work alone.  
